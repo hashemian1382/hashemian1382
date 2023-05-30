@@ -1,7 +1,7 @@
 ### Hi there 👋😎
 
-Instead of claiming to know different things, I prefer that my actions show everything...
-See the projects 👊😉🔥
+💠 Rather than making claims about my knowledge, 
+I prefer to let my actions speak for themselves... Check out my projects 👊😉🔥
 
 - 🔭 I am currently working on the university project "Crusades".
 - 🌱 I am learning Java
